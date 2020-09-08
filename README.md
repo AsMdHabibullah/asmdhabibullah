@@ -1,5 +1,4 @@
-<h2>Assalamu Alaikum,</h2>
-<h3>I'm As Md Habibullah.</h3>
+<h2>Assalamu Alaikum, I'm As Md Habibullah.</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
