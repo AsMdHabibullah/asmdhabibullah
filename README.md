@@ -1,6 +1,6 @@
-<h2>Assalamu Alaikum, I'm As Md Habibullah.</h2>
+<h2>Hello, I'm As Md Habibullah.</h2>
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h3> 🙎‍♂️ About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science & Technology at Yunnan University - China.
