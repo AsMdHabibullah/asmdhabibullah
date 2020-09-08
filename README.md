@@ -22,7 +22,7 @@
 
 [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asmdhabibullah&show_icons=true)](https://github.com/asmdhabibullah)
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝 Connect with Me </h3>
 
 <p align="left">
 <a href="https://asmdhabibullah.com/"><img alt="Website" src="https://img.shields.io/badge/Website-https://asmdhabibullah.com-blue?style=flat-square&logo=google-chrome"></a>
@@ -30,4 +30,4 @@
 <a href="mailto:contact@asmdhabibullah.com"><img alt="Email" src="https://img.shields.io/badge/Email-contact@asmdhabibullah.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [As Md Habibullah](https://github.com/asmdhabibullah)
+🌟 From [As Md Habibullah](https://github.com/asmdhabibullah)
