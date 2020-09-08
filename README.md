@@ -3,18 +3,20 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at Yunnan University.
-- 💼 &nbsp; Working as a Business Development Associate at in Upwork.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🎓 &nbsp; Studying Computer Science & Technology at Yunnan University - China.
+- 💼 &nbsp; Working as a Expert - full stack developer at Upwork.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design, IoT and Data Science.
+- ✍️ &nbsp; Pursuing Graphic Design as hobbies/side hustles.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | C# | Django | Flask | Spring
-- 🌐 &nbsp; HTML | CSS | | Bootstrap | Matrial-Ui | JavaScript | Deno.js | Node.js | ReactJS | Next.js | Getspy.js
-- 🛢 &nbsp; SQL | PostGreSQL | MongoDB
-- 🔧 &nbsp; Git | Markdown | Selenium 
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
+- 💻 &nbsp; HTML | CSS | JavaScript | Python | Java | C# | Django | Flask | Spring | Deno.js | Node.js
+- 🌐 &nbsp; Bootstrap | Material-Ui | ReactJS | Vue.js | Next.js | Gatsby.js
+- 🛢 &nbsp; SQL | PostGreSQL | MongoDB | Firebase
+- 🔧 &nbsp; Git | Markdown | Selenium | Scrapy
+- 📌 &nbsp; AWS | Heroku | Netlify | Vercel
+- 🖥 &nbsp; Illustrator| Photoshop
+- 💕 &nbsp; ⚽, 🏀, 🏐, 🏏
 
 <br/>
 
