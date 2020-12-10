@@ -10,11 +10,12 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; HTML | CSS | JavaScript | Python | Java | C# | Django | Flask | Spring | Deno.js | Node.js
-- 🌐 &nbsp; Bootstrap | Material-Ui | ReactJS | Vue.js | Next.js | Gatsby.js
+- 💻 &nbsp; HTML | CSS | JavaScript | Python | Java | C# | Django | Flask | Spring | DenoJS | NodeJS
+- 🌐 &nbsp; Bootstrap | Material-Ui | ReactJS | VueJS | NextJS | GatsbyJS
+- 📱 &nbps; Mobile development: React-Native
 - 🛢 &nbsp; SQL | PostGreSQL | MongoDB | Firebase
 - 🔧 &nbsp; Git | Markdown | Selenium | Scrapy
-- 📌 &nbsp; AWS | Heroku | Netlify | Vercel
+- 📌 &nbsp; AWS | Heroku | Netlify | Vercel, AgileCRM, ZohoCRM, Twilio
 - 🖥 &nbsp; Illustrator| Photoshop
 - 💕 &nbsp; ⚽, 🏀, 🏐, 🏏
 
