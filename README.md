@@ -12,7 +12,7 @@
 
 - 💻 &nbsp; HTML | CSS | JavaScript | Python | Java | C# | Django | Flask | Spring | DenoJS | NodeJS
 - 🌐 &nbsp; Bootstrap | Material-Ui | ReactJS | VueJS | NextJS | GatsbyJS
-- 📱 &nbps; Mobile development: React-Native
+- 📱 &nbsp; Mobile development: React-Native
 - 🛢 &nbsp; SQL | PostGreSQL | MongoDB | Firebase
 - 🔧 &nbsp; Git | Markdown | Selenium | Scrapy
 - 📌 &nbsp; AWS | Heroku | Netlify | Vercel, AgileCRM, ZohoCRM, Twilio
