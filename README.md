@@ -17,7 +17,7 @@
 - 🔧 &nbsp; Git | Markdown | Selenium | Scrapy
 - 📌 &nbsp; AWS | Heroku | Netlify | Vercel | AgileCRM | ZohoCRM | Twilio
 - 🖥 &nbsp; Illustrator| Photoshop
-- 💕 &nbsp; ⚽, 🏀, 🏐, 🏏
+- 💕 &nbsp; ⚽ | 🏀 | 🏐 | 🏏
 
 <br/>
 
