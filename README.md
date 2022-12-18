@@ -8,7 +8,7 @@ Skills <br/>
 ✅ Database: PostgreSQL, MongoDB, Redis, and Neo4J.<br/>
 ✅ Programming Language: Python, JavaScript, and TypeScript.<br/>
 ✅ Library: DenoJS, NodeJs, ReactJs, Jest, Mocha, Django, and Flask.<br/>
-✅ Other Tolls: AWS, Heroku, Digital Ocean, Docker, Kubernetes, CI/CD.
+✅ Other Tolls: AWS, Heroku, Digital Ocean, Docker, Kubernetes, and CI/CD.
 <br/>
 Now (2022) I'm focusing on Agile, MicroService architecture, and ML model development. I am always open to good people, good ideas, and good projects.
 Everyone is welcome to my profile.
