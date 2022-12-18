@@ -23,7 +23,7 @@ Everyone is welcome to my profile.
 <p align="left">
 <a href="https://asmdhabibullah.com/"><img alt="Website" src="https://img.shields.io/badge/Website-https://asmdhabibullah.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/asmdhabibullah/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-As%20Md%20Habibullah-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:contact@asmdhabibullah.com"><img alt="Email" src="https://img.shields.io/badge/Email-contact@asmdhabibullah.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:asmdhabibullah@yahoo.com"><img alt="Email" src="https://img.shields.io/badge/Email-contact@asmdhabibullah.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 💕 From [Abu Sayem Md Habibullah](https://github.com/asmdhabibullah)
