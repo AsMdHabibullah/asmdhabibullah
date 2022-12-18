@@ -2,7 +2,7 @@
 
 <h3> 🙎‍♂️ About Me </h3>
 
-As a mid-level software engineer with doing master’s in computer science and 4+ years of experience working with front-end and back-end to develop various marketing tools and customer management system tools with the world's leading Vehicle automation brand Citroen.
+As a software engineer with doing master’s in computer science and 4+ years of experience working with front-end and back-end to develop various marketing tools and customer management system tools with the world's leading Vehicle automation brand Citroen.
 
 Skills <br/>
 ✅ Database: PostgreSQL, MongoDB, Redis, and Neo4J.<br/>
