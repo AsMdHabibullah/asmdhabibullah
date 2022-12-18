@@ -2,21 +2,16 @@
 
 <h3> 🙎‍♂️ About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science & Technology at Yunnan University - China.
-- 💼 &nbsp; Working as a Expert - full stack developer at Upwork.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design, IoT and Data Science.
-- ✍️ &nbsp; Pursuing Graphic Design as hobbies/side hustles.
+As a mid-level software engineer with doing master’s in computer science and 4+ years of experience working with front-end and back-end to develop various marketing tools and customer management system tools with the world's leading Vehicle automation brand Citroen.
 
-<h3>🛠 Tech Stack</h3>
+Skills
+✅ Database: PostgreSQL, MongoDB, Redis, and Neo4J.
+✅ Programming Language: Python, JavaScript, and TypeScript
+✅ Library: DenoJS, NodeJs, ReactJs, Jest, Mocha, Django, and Flask.
+✅ Other Tolls: AWS, Heroku, Digital Ocean, Docker, Kubernetes, CI/CD.
 
-- 💻 &nbsp; HTML | CSS | JavaScript | Python | Java | C# | Django | Flask | Spring | DenoJS | NodeJS
-- 🌐 &nbsp; Bootstrap | Material-Ui | ReactJS | VueJS | NextJS | GatsbyJS
-- 📱 &nbsp; Mobile development: React-Native
-- 🛢 &nbsp; SQL | PostGreSQL | MongoDB | Firebase
-- 🔧 &nbsp; Git | Markdown | Selenium | Scrapy
-- 📌 &nbsp; AWS | Heroku | Netlify | Vercel | AgileCRM | ZohoCRM | Twilio
-- 🖥 &nbsp; Illustrator | Photoshop
+Now (2022) I'm focusing on Agile, MicroService architecture, and ML model development. I am always open to good people, good ideas, and good projects.
+Everyone is welcome to my profile.
 - 💕 &nbsp; ⚽ | 🏀 | 🏐 | 🏏
 
 <br/>
