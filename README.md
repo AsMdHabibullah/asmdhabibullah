@@ -6,8 +6,11 @@ As a mid-level software engineer with doing master’s in computer science and 4
 
 Skills
 ✅ Database: PostgreSQL, MongoDB, Redis, and Neo4J.
-✅ Programming Language: Python, JavaScript, and TypeScript
+
+✅ Programming Language: Python, JavaScript, and TypeScript.
+
 ✅ Library: DenoJS, NodeJs, ReactJs, Jest, Mocha, Django, and Flask.
+
 ✅ Other Tolls: AWS, Heroku, Digital Ocean, Docker, Kubernetes, CI/CD.
 
 Now (2022) I'm focusing on Agile, MicroService architecture, and ML model development. I am always open to good people, good ideas, and good projects.
