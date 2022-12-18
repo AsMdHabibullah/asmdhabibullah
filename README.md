@@ -4,15 +4,12 @@
 
 As a mid-level software engineer with doing master’s in computer science and 4+ years of experience working with front-end and back-end to develop various marketing tools and customer management system tools with the world's leading Vehicle automation brand Citroen.
 
-Skills
-✅ Database: PostgreSQL, MongoDB, Redis, and Neo4J.
-
-✅ Programming Language: Python, JavaScript, and TypeScript.
-
-✅ Library: DenoJS, NodeJs, ReactJs, Jest, Mocha, Django, and Flask.
-
+Skills <br/>
+✅ Database: PostgreSQL, MongoDB, Redis, and Neo4J.<br/>
+✅ Programming Language: Python, JavaScript, and TypeScript.<br/>
+✅ Library: DenoJS, NodeJs, ReactJs, Jest, Mocha, Django, and Flask.<br/>
 ✅ Other Tolls: AWS, Heroku, Digital Ocean, Docker, Kubernetes, CI/CD.
-
+<br/>
 Now (2022) I'm focusing on Agile, MicroService architecture, and ML model development. I am always open to good people, good ideas, and good projects.
 Everyone is welcome to my profile.
 - 💕 &nbsp; ⚽ | 🏀 | 🏐 | 🏏
