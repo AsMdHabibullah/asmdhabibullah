@@ -16,7 +16,7 @@ Everyone is welcome to my profile.
 
 <br/>
 
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asmdhabibullah&show_icons=true)](https://github.com/asmdhabibullah)
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asmdhabibullah&show_icons=true)](https://github.com/asmdhabibullah&theme=radica)
 
 <h3> 🤝 Connect with Me </h3>
 
