@@ -2,11 +2,14 @@
 
 With over 5 years in software engineering and pursuing an MSc in Computer Science (ML), I specialize in full-stack development. My experience at INTERNAZIONALEAUTO in vehicle automation refined my skills in marketing tools and project management. Known for leadership and adaptability, I excel in dynamic environments.
 
-Skills <br/>
-Technical Skills: Language/Frameworks/Tools/Concepts
-▪ Python, TS, and Java. 
+Technical Skills: Language/Frameworks/Tools/Concepts <br/>
+
+▪ Python, TS, and Java.
+
 ▪ Git, Docker, Kubernetes, HTTP, and gRPC Protocol.
+
 ▪ ReactJs, TensorFlow, PyTorch, and Deep Reinforcement Learning.
+
 <br/>
 
 Currently focusing on Microservices architecture and ML Transformar development concepts. I'm open to impactful projects and eager to contribute my refined skills and innovative mindset💡🤝
