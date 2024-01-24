@@ -4,11 +4,9 @@ With over 5 years in software engineering and pursuing an MSc in Computer Scienc
 
 **Technical Skills: Language/Frameworks/Tools/Concepts** <br/>
 
-▪ Python, TS, and Java. \newline
-▪ Git, Docker, Kubernetes, HTTP, and gRPC Protocol.<br/>
-▪ ReactJs, TensorFlow, PyTorch, and Deep Reinforcement Learning.
-
-<br/>
+▪ Python, TS, and Java. <br/>
+▪ Git, Docker, Kubernetes, HTTP, and gRPC Protocol. <br/>
+▪ NodeJs, ReactJs, TensorFlow, PyTorch, and Deep Reinforcement Learning. <br/>
 
 Currently focusing on Microservices and ML Transformar development architecture. I'm open to impactful projects and eager to contribute my refined skills and innovative mindset💡🤝
 
