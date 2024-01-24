@@ -1,4 +1,4 @@
-<h2>Hello, I'm **Abu Sayem Md Habibullah**</h2>
+<h2>Hello, I'm Abu Sayem Md Habibullah</h2>
 
 With over 5 years in software engineering and pursuing an MSc in Computer Science (ML), I specialize in full-stack development. My experience at INTERNAZIONALEAUTO in vehicle automation refined my skills in marketing tools and project management. Known for leadership and adaptability, I excel in dynamic environments.
 
