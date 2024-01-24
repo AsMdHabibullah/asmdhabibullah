@@ -1,11 +1,11 @@
-<h2>Hello, I'm __Abu Sayem Md Habibullah__</h2>
+<h2>Hello, I'm **Abu Sayem Md Habibullah**</h2>
 
 With over 5 years in software engineering and pursuing an MSc in Computer Science (ML), I specialize in full-stack development. My experience at INTERNAZIONALEAUTO in vehicle automation refined my skills in marketing tools and project management. Known for leadership and adaptability, I excel in dynamic environments.
 
-**Technical Skills: Language/Frameworks/Tools/Concepts** \newline
+**Technical Skills: Language/Frameworks/Tools/Concepts** <br/>
 
 ▪ Python, TS, and Java. \newline
-▪ Git, Docker, Kubernetes, HTTP, and gRPC Protocol. \newline
+▪ Git, Docker, Kubernetes, HTTP, and gRPC Protocol.<br/>
 ▪ ReactJs, TensorFlow, PyTorch, and Deep Reinforcement Learning.
 
 <br/>
