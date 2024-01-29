@@ -1,14 +1,12 @@
 <h2>Hello, I'm Abu Sayem Md Habibullah</h2>
 
-With over 5 years in software engineering and pursuing an MSc in Computer Science (ML), I specialize in full-stack development. My experience at INTERNAZIONALEAUTO in vehicle automation refined my skills in marketing tools and project management. Known for leadership and adaptability, I excel in dynamic environments.
+MSc in Computer Science (ML) with 5+ years in software engineering, specializing in ML and back-end development. Demonstrated leadership at INTERNAZIONALEAUTO, skilled in marketing tools and project management. Currently focused on Microservices and MLOps, seeking impactful projects to contribute refined skills and innovative mindset💡🤝
 
 **Technical Skills: Language/Frameworks/Tools/Concepts** <br/>
 
 ▪ Python, TS, and Java. <br/>
 ▪ Git, Docker, Kubernetes, HTTP, and gRPC Protocol. <br/>
 ▪ NodeJs, ReactJs, TensorFlow, PyTorch, and Deep Reinforcement Learning. <br/>
-
-Currently focusing on Microservices and ML Transformar development architecture. I'm open to impactful projects and eager to contribute my refined skills and innovative mindset💡🤝
 
 <br/>
 
