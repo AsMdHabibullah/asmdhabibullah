@@ -3,7 +3,6 @@
 MSc in Computer Science (ML) candidate with 5+ years in software engineering, specializing in ML and Backend development. Demonstrated leadership at INTERNAZIONALEAUTO, skilled in marketing tools and project management. Currently focused on Microservices and MLOps, seeking impactful projects to contribute refined skills and innovative mindset💡🤝
 
 **Technical Skills: Language/Frameworks/Tools/Concepts** <br/>
-
 ▪ Python, TS, and Java. <br/>
 ▪ Git, Docker, Kubernetes, HTTP, and gRPC Protocol. <br/>
 ▪ NodeJs, ReactJs, TensorFlow, PyTorch, and Deep Reinforcement Learning. <br/>
